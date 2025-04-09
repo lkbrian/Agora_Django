@@ -1,3 +1,7 @@
 .env
 .venv
 .venv/*
+__pycache__
+Agora_caller/__pycache__/*
+*.pyc
+db.sqlite3
